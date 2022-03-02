@@ -1,0 +1,9 @@
+{
+   "baseURL": "https://blog.flokinet.is/",
+   "languageCode": "en-us",
+   "title": "FlokiNET",
+   "theme": "hyde",
+   "Params": {
+      "description": "Stories from the Secure Uplink"
+   }
+}
