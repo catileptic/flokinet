@@ -4,6 +4,7 @@
    "title": "FlokiNET",
    "theme": "hyde",
    "Params": {
-      "description": "Stories from the Secure Uplink"
+      "description": "Stories from the Secure Uplink",
+      "copyright": "CC BY-SA - Attribution ShakeAlike"
    }
 }
